@@ -8,8 +8,10 @@ Análise das transferências da Premier League entre 1992 e 2022.
 | :label: Tecnologias | python, pandas, powerbi, excel
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://www.imagemhost.com.br/image/r0sp2P#vitrinedev)
-<img src="https://www.imagemhost.com.br/images/2023/01/03/Captura-de-Tela-2023-01-02-as-22.31.40.png" alt="Captura-de-Tela-2023-01-02-as-22.31.40.png" border="0" />
+![](https://i.imgur.com/10Wqd1b.png#vitrinedev)
+<a href="https://imgur.com/wC7tuuU"><img src="https://i.imgur.com/wC7tuuU.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/10Wqd1b"><img src="https://i.imgur.com/10Wqd1b.png" title="source: imgur.com" /></a>
 
 ## Detalhes do projeto
 
