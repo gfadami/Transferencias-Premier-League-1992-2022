@@ -9,6 +9,7 @@ Análise das transferências da Premier League entre 1992 e 2022.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://www.imagemhost.com.br/image/r0sp2P#vitrinedev)
+<img src="https://www.imagemhost.com.br/images/2023/01/03/Captura-de-Tela-2023-01-02-as-22.31.40.png" alt="Captura-de-Tela-2023-01-02-as-22.31.40.png" border="0" />
 
 ## Detalhes do projeto
 
