@@ -8,7 +8,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :label: Tecnologias | python, pandas, powerbi, excel (tecnologias utilizadas)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://drive.google.com/file/d/19kyWRUJWawH02VQIh638M9zq2FIiycqm/view?usp=sharing)
+![](https://drive.google.com/file/d/19kyWRUJWawH02VQIh638M9zq2FIiycqm/view?usp=sharing#vitrinedev)
 
 ## Detalhes do projeto
 
