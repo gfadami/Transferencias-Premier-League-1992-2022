@@ -13,5 +13,5 @@ Análise das transferências da Premier League entre 1992 e 2022.
 ## Detalhes do projeto
 
 Análise de Dados das trasferências dos seis maiores clubes da Premier League, liga de futebol da Inglaterra.
-Base da dados retirado do Kaggle e do Transfermarkt.
+Base da dados retirado do Kaggle e do Transfermarkt. Por favor entre em contato comigo casa queira explorar o dashboard por completo.
 Trabalho em progresso.
