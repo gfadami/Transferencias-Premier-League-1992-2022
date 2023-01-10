@@ -10,6 +10,7 @@ Análise das transferências da Premier League entre 1992 e 2022.
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://i.imgur.com/wC7tuuU.png#vitrinedev)
 ![](https://i.imgur.com/10Wqd1b.png)
+![](https://i.imgur.com/NhfIzFk.png)
 
 ## Detalhes do projeto
 
