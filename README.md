@@ -13,7 +13,7 @@ Análise das transferências da Premier League entre 1992 e 2022.
 
 ## Detalhes do projeto
 
-# Análise de Dados das trasferências dos seis maiores clubes da Premier League, liga de futebol da Inglaterra.
+# Análise de Dados das trasferências dos seis maiores clubes da Premier League, liga de futebol da Inglaterra, entre os anos 1992 e 2022.
 ## Meu primeiro projeto completo de análise de dados, com o intuito de praticar conceitos como tratamento de dados, estatística e criação de dashboard.
 ### No arquivo Base de Dados.ipynb, temos todo o tratamento inicial. Como a base de dados veio com todos os times da Premier League, realizei a separação dos seis maiores times, como também a alteração e limpeza de alguns valores.
 ### Nos arquivos de cada time (ex.: Análise Liverpool FC.ipynb), foi realizada uma análise mais profunda, começando por uma descritiva geral do clube e de compra/venda. Depois disso realizei o agrupamento por posição dos jogadores e depois uma análise por idade. Por fim foi feito uma análise prescritiva com previsões de probabilidade de venda e compra, baseado em grupos separados por idade.
